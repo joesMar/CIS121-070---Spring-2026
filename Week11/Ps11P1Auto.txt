@@ -1,0 +1,4 @@
+Honda Accord    25000.00    22000.00
+Honda CRV       30000.00   28000.00
+Toyota Corrola  28000.00   25000.00
+Ford Fusion     23000.00    20000.00

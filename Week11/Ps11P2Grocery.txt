@@ -1,0 +1,6 @@
+Banana            10     0.50
+Oranges            5     0.10
+Cookies           15     0.30
+Hamburgers         4     1.00
+Buns               4     0.50
+Soda              10     0.99

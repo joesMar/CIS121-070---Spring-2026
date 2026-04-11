@@ -1,0 +1,5 @@
+Jones            I            15
+Baker            O            20
+Davis            I            10
+Michaels         O            12
+Baez             I            12
